@@ -1,0 +1,20 @@
+1.Final value of the_int: -42
+  Final value of the_double: 0
+2.Final value of the_int: 35
+  Final value of the_double: 0
+3.Final value of the_int: 100
+  Final value of the_double: 0
+4.Final value of the_int: 876
+  Final value of the_double: 543
+5.Final value of the_int: 0
+  Final value of the_double: 1.11111
+6.Final value of the_int: 12
+  Final value of the_double: 0.3456
+7.Final value of the_int: 0
+  Final value of the_double: 1.11111
+8.Final value of the_int: 2147483647
+  Final value of the_double: 1.11111
+
+  Observation 1: Everytime I inputted a non-number character it skipped the double input. For example, adding a comma or "x" would skip the chance to input a double.
+
+  Observation 2: Everytime I input a space in between 2 numbers, it would treat the second half of the number as the double input.
