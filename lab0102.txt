@@ -1,0 +1,6 @@
+2(a) - Because the right bound in the for loop is less than or equal to 10, the last output is 10, not 9.
+2(b) - Same output, but each iteration is printed on the same line with no spacing.
+2(c) - It skips the even numbers in the loop. Only 3, 5, 7, and 9 are worked with.
+2(d) - There is an "error: expected expression:" error.
+2(e) - There is an "error: expected ';' at end of declaration" error.
+2(f) - There is an "error: ' iostream' file not found, did you mean 'iostream'?" error.

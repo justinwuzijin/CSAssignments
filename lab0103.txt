@@ -1,0 +1,16 @@
+a) Which register holds the return value?
+eax register holds the return value.
+
+b) How many ALU operations (the adds) does calc perform before
+ret?
+3 ALU operations before returning.
+
+c) For inputs a and b, what value is returned?
+(a+a)+b is returned.
+
+
+calc2(int, int)
+mov eax, DWORD PRT [esp+4]
+add eax, DWORD PRT [esp+8]
+add eax, DWORD PRT [esp+8]
+ret
