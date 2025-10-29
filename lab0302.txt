@@ -1,0 +1,14 @@
+a) Division of an integer by the integer value of 0
+    1. No, although it outputs 0, it causes a run time error.
+    2. "Received a value of 0
+        10 / int_divisor has a value of 0"
+
+b) Division of a double by the double value of 0.0
+    1. Yes, it says that 10/0.0 is "inf"
+    2. "Received a value of 0
+        10.0 / double_divisor has a value of inf"
+
+c) Square root of a negative number
+    1. Yes, it says that the square root of -2 is nan.
+    2. "Received a value of -2
+        sqrt(sqrt_arg) has a value of nan"
